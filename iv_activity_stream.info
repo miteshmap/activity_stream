@@ -1,0 +1,3 @@
+name = Ivillage Activity Stream
+description = Generates activitystream.ms views integration
+core = 6.x
